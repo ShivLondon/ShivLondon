@@ -1,4 +1,4 @@
-[![](https://github.com/ShivshankarPersonal/ShivshankarPersonal/blob/main/BG.png)](https://www.linkedin.com/in/shivashankar-/)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/ShivshankarPersonal/ShivshankarPersonal/blob/main/BG1.png)](https://www.linkedin.com/in/shivashankar-/)<!-- If you want the template for my gif, email me! -->
 
 ### 👋 Hello there !
 
