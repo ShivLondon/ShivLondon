@@ -1,6 +1,8 @@
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+
 [![](https://github.com/ShivLondon/ShivLondon/blob/main/SkillsCloud.png)](https://www.linkedin.com/in/shivashankar-/)<!-- If you want the template for my gif, email me! -->
 
-### 👋 Hello there !
+
 
 
 
