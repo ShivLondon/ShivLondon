@@ -3,12 +3,10 @@
 [![](https://github.com/ShivLondon/ShivLondon/blob/main/SkillsCloud.png)](https://www.linkedin.com/in/shivashankar-/)<!-- If you want the template for my gif, email me! -->
 
 
-
-
-
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I'm Shiv, I'm a London based full stack developer with over 15 year's of application development experience, working on implementation of cuttting-edge applications in Startup's and Enterprise environments. \
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view) for more details about work experience.
+<ul>
+<li>I am Shiv, a full stack developer with over 15 years of experience, currently working in Intropic, London.</li>
+<li>You can check my <a href="https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view" >resume</a> for more details about work experience.</li>
+</ul>
 
 
 ### 📫 &nbsp; How to reach me:
