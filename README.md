@@ -5,7 +5,7 @@
 
 <ul>
 <li>I am Shiv, a full stack developer with over 15 years of experience, currently working in Intropic, London.</li>
-<li>You can check my <a href="https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view" >resume</a> for more details about work experience.</li>
+<li>You can check my <a href="https://drive.google.com/file/d/12sYKAzQlsvQpoCtmkbiwHiKUnr5NWE8G/view" target="_blank">resume</a> for more details about work experience.</li>
 </ul>
 
 
